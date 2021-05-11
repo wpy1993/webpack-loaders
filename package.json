@@ -1,0 +1,17 @@
+{
+  "name": "webpack-loaders",
+  "version": "1.0.0",
+  "description": "some simple webpack loaders for study",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wplay",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^5.37.0",
+    "webpack-cli": "^4.7.0"
+  }
+}
