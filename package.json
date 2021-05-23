@@ -1,6 +1,6 @@
 {
-  "name": "webpack-loaders",
-  "version": "1.0.0",
+  "name": "webpack-wplay-loaders",
+  "version": "0.0.1",
   "description": "some simple webpack loaders for study",
   "main": "lib/index.js",
   "scripts": {
