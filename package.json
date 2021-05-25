@@ -5,12 +5,16 @@
   "main": "lib/index.js",
   "scripts": {
     "dev": "webpack",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint init"
   },
   "author": "wplay",
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
+    "eslint": "^7.27.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.3",
     "webpack": "^5.37.0",
     "webpack-cli": "^4.7.0"
   }
