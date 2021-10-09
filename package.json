@@ -1,8 +1,8 @@
 {
   "name": "webpack-wplay-loaders",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "some simple webpack loaders for study",
-  "main": "lib/index.js",
+  "main": "lib/fileCheckLoader.js",
   "scripts": {
     "dev": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1",
